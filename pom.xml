@@ -5,4 +5,12 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>importsource-orange</name>
   <description>importsource-orange</description>
+  
+  <dependencies>
+    <dependency>
+			<groupId>com.importsource.ison</groupId>
+			<artifactId>importsource-ison</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+  </dependencies>
 </project>
